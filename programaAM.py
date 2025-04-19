@@ -12,5 +12,7 @@ maxi=max(m1,m2)
 
 if(m1>m2):
     print("Multiplicando o 1.º número com o 2.º e o 3.º com o 4.º, a maior multiplicação é a 1.ª, sendo o seu valor igual a:",maxi)
+if(m1=m2):
+    print("Multiplicando o 1.º número com o 2.º e o 3.º com o 4.º, as duas multiplicações são iguais :O, sendo o seu valor igual a:",maxi
 else:
     print("Multiplicando o 1.º número com o 2.º e o 3.º com o 4.º, a maior multiplicação é a 2.ª, sendo o seu valor igual a:",maxi)
